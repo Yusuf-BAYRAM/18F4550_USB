@@ -1,0 +1,9 @@
+>>> Warning 203 "C:\Program Files (x86)\PICC\Drivers\pic18_usb.c" Line 640(1,1): Condition always TRUE
+>>> Warning 216 "LCD_KONTROL.c" Line 308(1,2): Interrupts disabled during call to prevent re-entrancy:  (usb_token_reset)
+>>> Warning 216 "LCD_KONTROL.c" Line 308(1,2): Interrupts disabled during call to prevent re-entrancy:  (@MUL1616)
+>>> Warning 216 "LCD_KONTROL.c" Line 308(1,2): Interrupts disabled during call to prevent re-entrancy:  (usb_flush_out)
+>>> Warning 216 "LCD_KONTROL.c" Line 308(1,2): Interrupts disabled during call to prevent re-entrancy:  (usb_tbe)
+>>> Warning 216 "LCD_KONTROL.c" Line 308(1,2): Interrupts disabled during call to prevent re-entrancy:  (usb_flush_in)
+      Memory usage:   ROM=22%      RAM=21% - 22%
+      0 Errors,  6 Warnings.
+Build Successful.

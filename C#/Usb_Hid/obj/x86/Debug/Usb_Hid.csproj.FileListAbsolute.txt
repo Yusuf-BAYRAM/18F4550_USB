@@ -1,0 +1,88 @@
+C:\Users\Ugur\Desktop\USB_HID_18F4550\C#_App\Usb_Hid\Usb_Hid\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ugur\Desktop\USB_HID_18F4550\C#_App\Usb_Hid\Usb_Hid\obj\x86\Debug\Usb_Hid.Form1.resources
+C:\Users\Ugur\Desktop\USB_HID_18F4550\C#_App\Usb_Hid\Usb_Hid\obj\x86\Debug\Usb_Hid.Properties.Resources.resources
+C:\Users\Ugur\Desktop\USB_HID_18F4550\C#_App\Usb_Hid\Usb_Hid\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Ugur\Desktop\USB_HID_18F4550\C#_App\Usb_Hid\Usb_Hid\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Ugur\Desktop\USB_HID_18F4550\C#_App\Usb_Hid\Usb_Hid\bin\Debug\Usb_Hid.exe
+C:\Users\Ugur\Desktop\USB_HID_18F4550\C#_App\Usb_Hid\Usb_Hid\bin\Debug\Usb_Hid.pdb
+C:\Users\Ugur\Desktop\USB_HID_18F4550\C#_App\Usb_Hid\Usb_Hid\obj\x86\Debug\Usb_Hid.exe
+C:\Users\Ugur\Desktop\USB_HID_18F4550\C#_App\Usb_Hid\Usb_Hid\obj\x86\Debug\Usb_Hid.pdb
+C:\Users\Ugur\Desktop\USB_HID_18F4550\LED_KONTROLU\C#_App\Usb_Hid\Usb_Hid\obj\x86\Debug\Usb_Hid.exe
+C:\Users\Ugur\Desktop\USB_HID_18F4550\LED_KONTROLU\C#_App\Usb_Hid\Usb_Hid\obj\x86\Debug\Usb_Hid.pdb
+C:\Users\Ugur\Desktop\USB_HID_18F4550\LED_KONTROLU\C#_App\Usb_Hid\obj\x86\Debug\Usb_Hid.exe
+C:\Users\Ugur\Desktop\USB_HID_18F4550\LED_KONTROLU\C#_App\Usb_Hid\obj\x86\Debug\Usb_Hid.pdb
+C:\Users\Ugur\Desktop\USB_HID_18F4550\SERVO_KONTROLU\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\Usb_Hid.exe
+C:\Users\Ugur\Desktop\USB_HID_18F4550\SERVO_KONTROLU\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\Usb_Hid.pdb
+C:\Users\Ugur\Desktop\USB_HID_18F4550\SERVO_KONTROLU\C#_App_Servo_Kontrolu\Usb_Hid\bin\Debug\Usb_Hid.exe
+C:\Users\Ugur\Desktop\USB_HID_18F4550\SERVO_KONTROLU\C#_App_Servo_Kontrolu\Usb_Hid\bin\Debug\Usb_Hid.pdb
+C:\Users\Ugur\Desktop\USB_HID_18F4550\SERVO_KONTROLU\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ugur\Desktop\USB_HID_18F4550\SERVO_KONTROLU\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\Usb_Hid.Form1.resources
+C:\Users\Ugur\Desktop\USB_HID_18F4550\SERVO_KONTROLU\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\Usb_Hid.Properties.Resources.resources
+C:\Users\Ugur\Desktop\USB_HID_18F4550\SERVO_KONTROLU\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Ugur\Desktop\USB_HID_18F4550\SERVO_KONTROLU\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Ugur\Desktop\USB_HID_18F4550\SERVO_KONTROLU\1_SERVO_MOTOR_ILE\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\Usb_Hid.exe
+C:\Users\Ugur\Desktop\USB_HID_18F4550\SERVO_KONTROLU\1_SERVO_MOTOR_ILE\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\Usb_Hid.pdb
+C:\Users\Ugur\Desktop\USB_HID_18F4550\SERVO_KONTROLU\1_SERVO_MOTOR_ILE\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ugur\Desktop\USB_HID_18F4550\SERVO_KONTROLU\1_SERVO_MOTOR_ILE\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\Usb_Hid.Form1.resources
+C:\Users\Ugur\Desktop\USB_HID_18F4550\SERVO_KONTROLU\1_SERVO_MOTOR_ILE\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\Usb_Hid.Properties.Resources.resources
+C:\Users\Ugur\Desktop\USB_HID_18F4550\SERVO_KONTROLU\1_SERVO_MOTOR_ILE\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Ugur\Desktop\USB_HID_18F4550\SERVO_KONTROLU\1_SERVO_MOTOR_ILE\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Ugur\Desktop\USB_HID_18F4550\SERVO_KONTROLU\1_SERVO_MOTOR_ILE\C#_App_Servo_Kontrolu\Usb_Hid\bin\Debug\Usb_Hid.exe
+C:\Users\Ugur\Desktop\USB_HID_18F4550\SERVO_KONTROLU\1_SERVO_MOTOR_ILE\C#_App_Servo_Kontrolu\Usb_Hid\bin\Debug\Usb_Hid.pdb
+C:\Users\Ugur\Desktop\USB_HID_18F4550\SERVO_KONTROLU\5_SERVO_MOTOR_ILE\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\Usb_Hid.exe
+C:\Users\Ugur\Desktop\USB_HID_18F4550\SERVO_KONTROLU\5_SERVO_MOTOR_ILE\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\Usb_Hid.pdb
+C:\Users\Ugur\Desktop\USB_HID_18F4550\SERVO_KONTROLU\5_SERVO_MOTOR_ILE\C#_App_Servo_Kontrolu\Usb_Hid\bin\Debug\Usb_Hid.exe
+C:\Users\Ugur\Desktop\USB_HID_18F4550\SERVO_KONTROLU\5_SERVO_MOTOR_ILE\C#_App_Servo_Kontrolu\Usb_Hid\bin\Debug\Usb_Hid.pdb
+C:\Users\Ugur\Desktop\USB_HID_18F4550\SERVO_KONTROLU\5_SERVO_MOTOR_ILE\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ugur\Desktop\USB_HID_18F4550\SERVO_KONTROLU\5_SERVO_MOTOR_ILE\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\Usb_Hid.Form1.resources
+C:\Users\Ugur\Desktop\USB_HID_18F4550\SERVO_KONTROLU\5_SERVO_MOTOR_ILE\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\Usb_Hid.Properties.Resources.resources
+C:\Users\Ugur\Desktop\USB_HID_18F4550\SERVO_KONTROLU\5_SERVO_MOTOR_ILE\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Ugur\Desktop\USB_HID_18F4550\SERVO_KONTROLU\5_SERVO_MOTOR_ILE\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+H:\DESKTOP\ELEKTRONIK\PIC&ATMEL PROGRAMMIERUNG\PIC\PIC_UYGULAMALARI\CCS\USB\Kendi_USB_HID Denemem\USB_HID_18F4550\SERVO_KONTROLU\5_SERVO_MOTOR_ILE\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\Usb_Hid.exe
+H:\DESKTOP\ELEKTRONIK\PIC&ATMEL PROGRAMMIERUNG\PIC\PIC_UYGULAMALARI\CCS\USB\Kendi_USB_HID Denemem\USB_HID_18F4550\SERVO_KONTROLU\5_SERVO_MOTOR_ILE\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\Usb_Hid.pdb
+F:\DESKTOP\ELEKTRONIK\PIC&ATMEL PROGRAMMIERUNG\PIC\PIC_UYGULAMALARI\CCS\USB\Kendi_USB_HID Denemem\USB_HID_18F4550\SERVO_KONTROLU\5_SERVO_MOTOR_ILE\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\Usb_Hid.exe
+F:\DESKTOP\ELEKTRONIK\PIC&ATMEL PROGRAMMIERUNG\PIC\PIC_UYGULAMALARI\CCS\USB\Kendi_USB_HID Denemem\USB_HID_18F4550\SERVO_KONTROLU\5_SERVO_MOTOR_ILE\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\Usb_Hid.pdb
+F:\DESKTOP\ELEKTRONIK\PIC&ATMEL PROGRAMMIERUNG\PIC\PIC_UYGULAMALARI\CCS\USB\Kendi_USB_HID Denemem\USB_HID_18F4550\SERVO_KONTROLU\5_SERVO_MOTOR_ILE\C#_App_Servo_Kontrolu\Usb_Hid\bin\Debug\Usb_Hid.exe
+F:\DESKTOP\ELEKTRONIK\PIC&ATMEL PROGRAMMIERUNG\PIC\PIC_UYGULAMALARI\CCS\USB\Kendi_USB_HID Denemem\USB_HID_18F4550\SERVO_KONTROLU\5_SERVO_MOTOR_ILE\C#_App_Servo_Kontrolu\Usb_Hid\bin\Debug\Usb_Hid.pdb
+F:\DESKTOP\ELEKTRONIK\PIC&ATMEL PROGRAMMIERUNG\PIC\PIC_UYGULAMALARI\CCS\USB\Kendi_USB_HID Denemem\USB_HID_18F4550\SERVO_KONTROLU\5_SERVO_MOTOR_ILE\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\DESKTOP\ELEKTRONIK\PIC&ATMEL PROGRAMMIERUNG\PIC\PIC_UYGULAMALARI\CCS\USB\Kendi_USB_HID Denemem\USB_HID_18F4550\SERVO_KONTROLU\5_SERVO_MOTOR_ILE\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\Usb_Hid.Form1.resources
+F:\DESKTOP\ELEKTRONIK\PIC&ATMEL PROGRAMMIERUNG\PIC\PIC_UYGULAMALARI\CCS\USB\Kendi_USB_HID Denemem\USB_HID_18F4550\SERVO_KONTROLU\5_SERVO_MOTOR_ILE\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\Usb_Hid.Properties.Resources.resources
+F:\DESKTOP\ELEKTRONIK\PIC&ATMEL PROGRAMMIERUNG\PIC\PIC_UYGULAMALARI\CCS\USB\Kendi_USB_HID Denemem\USB_HID_18F4550\SERVO_KONTROLU\5_SERVO_MOTOR_ILE\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\DESKTOP\ELEKTRONIK\PIC&ATMEL PROGRAMMIERUNG\PIC\PIC_UYGULAMALARI\CCS\USB\Kendi_USB_HID Denemem\USB_HID_18F4550\SERVO_KONTROLU\5_SERVO_MOTOR_ILE\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+G:\DESKTOP\ELEKTRONIK\PIC&ATMEL PROGRAMMIERUNG\PIC\PIC_UYGULAMALARI\CCS\USB\Kendi_USB_HID Denemem\USB_HID_18F4550\SERVO_KONTROLU\5_SERVO_MOTOR_ILE\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\Usb_Hid.exe
+G:\DESKTOP\ELEKTRONIK\PIC&ATMEL PROGRAMMIERUNG\PIC\PIC_UYGULAMALARI\CCS\USB\Kendi_USB_HID Denemem\USB_HID_18F4550\SERVO_KONTROLU\5_SERVO_MOTOR_ILE\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\Usb_Hid.pdb
+G:\DESKTOP\ELEKTRONIK\PIC&ATMEL PROGRAMMIERUNG\PIC\PIC_UYGULAMALARI\CCS\USB\Kendi_USB_HID Denemem\USB_HID_18F4550\SERVO_KONTROLU\5_SERVO_MOTOR_ILE\C#_App_Servo_Kontrolu\Usb_Hid\bin\Debug\Usb_Hid.exe
+G:\DESKTOP\ELEKTRONIK\PIC&ATMEL PROGRAMMIERUNG\PIC\PIC_UYGULAMALARI\CCS\USB\Kendi_USB_HID Denemem\USB_HID_18F4550\SERVO_KONTROLU\5_SERVO_MOTOR_ILE\C#_App_Servo_Kontrolu\Usb_Hid\bin\Debug\Usb_Hid.pdb
+G:\DESKTOP\ELEKTRONIK\PIC&ATMEL PROGRAMMIERUNG\PIC\PIC_UYGULAMALARI\CCS\USB\Kendi_USB_HID Denemem\USB_HID_18F4550\SERVO_KONTROLU\5_SERVO_MOTOR_ILE\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\DESKTOP\ELEKTRONIK\PIC&ATMEL PROGRAMMIERUNG\PIC\PIC_UYGULAMALARI\CCS\USB\Kendi_USB_HID Denemem\USB_HID_18F4550\SERVO_KONTROLU\5_SERVO_MOTOR_ILE\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\Usb_Hid.Form1.resources
+G:\DESKTOP\ELEKTRONIK\PIC&ATMEL PROGRAMMIERUNG\PIC\PIC_UYGULAMALARI\CCS\USB\Kendi_USB_HID Denemem\USB_HID_18F4550\SERVO_KONTROLU\5_SERVO_MOTOR_ILE\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\Usb_Hid.Properties.Resources.resources
+G:\DESKTOP\ELEKTRONIK\PIC&ATMEL PROGRAMMIERUNG\PIC\PIC_UYGULAMALARI\CCS\USB\Kendi_USB_HID Denemem\USB_HID_18F4550\SERVO_KONTROLU\5_SERVO_MOTOR_ILE\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+G:\DESKTOP\ELEKTRONIK\PIC&ATMEL PROGRAMMIERUNG\PIC\PIC_UYGULAMALARI\CCS\USB\Kendi_USB_HID Denemem\USB_HID_18F4550\SERVO_KONTROLU\5_SERVO_MOTOR_ILE\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Yusuf BAYRAM\Desktop\USB_HID_18F4550\USB_HID_18F4550\SERVO_KONTROLU\5_SERVO_MOTOR_ILE(Kendi_Yontemim)\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\Usb_Hid.exe
+C:\Users\Yusuf BAYRAM\Desktop\USB_HID_18F4550\USB_HID_18F4550\SERVO_KONTROLU\5_SERVO_MOTOR_ILE(Kendi_Yontemim)\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\Usb_Hid.pdb
+C:\Users\Yusuf BAYRAM\Desktop\USB_HID_18F4550\USB_HID_18F4550\SERVO_KONTROLU\5_SERVO_MOTOR_ILE(Kendi_Yontemim)\C#_App_Servo_Kontrolu\Usb_Hid\bin\Debug\Usb_Hid.exe
+C:\Users\Yusuf BAYRAM\Desktop\USB_HID_18F4550\USB_HID_18F4550\SERVO_KONTROLU\5_SERVO_MOTOR_ILE(Kendi_Yontemim)\C#_App_Servo_Kontrolu\Usb_Hid\bin\Debug\Usb_Hid.pdb
+C:\Users\Yusuf BAYRAM\Desktop\USB_HID_18F4550\USB_HID_18F4550\SERVO_KONTROLU\5_SERVO_MOTOR_ILE(Kendi_Yontemim)\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\Usb_Hid.csprojResolveAssemblyReference.cache
+C:\Users\Yusuf BAYRAM\Desktop\USB_HID_18F4550\USB_HID_18F4550\SERVO_KONTROLU\5_SERVO_MOTOR_ILE(Kendi_Yontemim)\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\Usb_Hid.Form1.resources
+C:\Users\Yusuf BAYRAM\Desktop\USB_HID_18F4550\USB_HID_18F4550\SERVO_KONTROLU\5_SERVO_MOTOR_ILE(Kendi_Yontemim)\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\Usb_Hid.Properties.Resources.resources
+C:\Users\Yusuf BAYRAM\Desktop\USB_HID_18F4550\USB_HID_18F4550\SERVO_KONTROLU\5_SERVO_MOTOR_ILE(Kendi_Yontemim)\C#_App_Servo_Kontrolu\Usb_Hid\obj\x86\Debug\Usb_Hid.csproj.GenerateResource.Cache
+C:\Users\Yusuf BAYRAM\Desktop\Proje\C#\Usb_Hid\obj\x86\Debug\Usb_Hid.exe
+C:\Users\Yusuf BAYRAM\Desktop\Proje\C#\Usb_Hid\obj\x86\Debug\Usb_Hid.pdb
+C:\Users\Yusuf BAYRAM\Desktop\Proje\C#\Usb_Hid\bin\Debug\Usb_Hid.exe
+C:\Users\Yusuf BAYRAM\Desktop\Proje\C#\Usb_Hid\bin\Debug\Usb_Hid.pdb
+C:\Users\Yusuf BAYRAM\Desktop\Proje\C#\Usb_Hid\obj\x86\Debug\Usb_Hid.csprojResolveAssemblyReference.cache
+C:\Users\Yusuf BAYRAM\Desktop\Proje\C#\Usb_Hid\obj\x86\Debug\Usb_Hid.Form1.resources
+C:\Users\Yusuf BAYRAM\Desktop\Proje\C#\Usb_Hid\obj\x86\Debug\Usb_Hid.Properties.Resources.resources
+C:\Users\Yusuf BAYRAM\Desktop\Proje\C#\Usb_Hid\obj\x86\Debug\Usb_Hid.csproj.GenerateResource.Cache
+F:\Proje\Proje\C#\Usb_Hid\obj\x86\Debug\Usb_Hid.exe
+F:\Proje\Proje\C#\Usb_Hid\obj\x86\Debug\Usb_Hid.pdb
+F:\TPPM Dosyaları\Proje\Proje\C#\Usb_Hid\obj\x86\Debug\Usb_Hid.exe
+F:\TPPM Dosyaları\Proje\Proje\C#\Usb_Hid\obj\x86\Debug\Usb_Hid.pdb
+D:\Ders Notları ve modüller\2017 Tübitak Projesi\TPPM Dosyaları\Proje\Proje\C#\Usb_Hid\obj\x86\Debug\Usb_Hid.exe
+D:\Ders Notları ve modüller\2017 Tübitak Projesi\TPPM Dosyaları\Proje\Proje\C#\Usb_Hid\obj\x86\Debug\Usb_Hid.pdb
+D:\Ders Notları ve modüller\2017 Tübitak Projesi\TPPM Dosyaları\Proje\Proje\C#\Usb_Hid\bin\Debug\Usb_Hid.exe
+D:\Ders Notları ve modüller\2017 Tübitak Projesi\TPPM Dosyaları\Proje\Proje\C#\Usb_Hid\bin\Debug\Usb_Hid.pdb
+D:\Ders Notları ve modüller\2017 Tübitak Projesi\TPPM Dosyaları\Proje\Proje\C#\Usb_Hid\obj\x86\Debug\Usb_Hid.csprojResolveAssemblyReference.cache
+D:\Ders Notları ve modüller\2017 Tübitak Projesi\TPPM Dosyaları\Proje\Proje\C#\Usb_Hid\obj\x86\Debug\Usb_Hid.Form1.resources
+D:\Ders Notları ve modüller\2017 Tübitak Projesi\TPPM Dosyaları\Proje\Proje\C#\Usb_Hid\obj\x86\Debug\Usb_Hid.Properties.Resources.resources
+D:\Ders Notları ve modüller\2017 Tübitak Projesi\TPPM Dosyaları\Proje\Proje\C#\Usb_Hid\obj\x86\Debug\Usb_Hid.csproj.GenerateResource.Cache

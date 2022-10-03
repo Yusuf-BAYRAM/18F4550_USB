@@ -1,0 +1,141 @@
+
+ROM used:   7156/16384 (22%)
+            7156/16384 (22%) including unused fragments
+
+            1.2 Average locations per line
+            9.3 Average locations per statement
+
+RAM used:   421/2048 (21%) at main() level
+            456/2048 (22%) worst case
+
+Stack used: 1 worst case (0 in main + 1 for interrupts)
+Stack size: 31
+
+Lines Stmts  %   Files
+----- ----- ---  -----
+  310   163  21  LCD_KONTROL.c
+  821     0   0  ..\..\..\..\..\Program Files (x86)\PICC\Devices\18F4550.h
+  224    44   6  flex_lcd.c
+  228     0   0  ..\..\..\..\..\Program Files (x86)\PICC\Drivers\pic18_usb.h
+  328     0   0  ..\..\..\..\..\Program Files (x86)\PICC\Drivers\usb_hw_layer.h
+  238     0   0  USB_Konfigurasyon.h
+ 1103     0   0  ..\..\..\..\..\Program Files (x86)\PICC\Drivers\usb.h
+ 1177   247  32  ..\..\..\..\..\Program Files (x86)\PICC\Drivers\usb.c
+ 1403   317  41  ..\..\..\..\..\Program Files (x86)\PICC\Drivers\pic18_usb.c
+----- -----
+ 5832   771 Total
+
+Page ROM  %  RAM   Vol Diff  Functions:
+---- --- --- ---   --- ----  ----------
+0     40   0    1             @delay_ms1
+0     32   0    1             @delay_us1
+0     30   0    0             @const634
+0     70   0    1   326  2.8  lcd_send_nibble
+0     60   0    3   235  3.8  lcd_send_byte
+0     92   1    2   380  4.7  lcd_init
+0     34   0    4   186  5.5  lcd_gotoxy
+0     66   0    1   617  6.6  lcd_putc
+0     32   0    0             @const748
+0     66   0    0             @const754
+0     48   0    0             @const760
+0     18   0    0             @const763
+0     18   0    0             @const767
+0     58   0    0             @const771
+0     18   0    0             @const774
+0     18   0    0             @const777
+0     34   0    0             @const782
+0     90   1    0             @const786
+0     84   1    4   139  4.3  usb_kbhit
+0     30   0    5             @MUL1616
+0     78   1    4   139  4.3  usb_tbe
+0     36   0    1   145  3.2  usb_detach
+0     34   0    0   136  2.2  usb_attach
+0      6   0    0    16  1.0  usb_init_cs
+0     34   0    1   367  5.2  usb_task
+0     14   0    0    61  2.5  usb_init
+0    268   2    9  1092  5.4  usb_flush_in
+0    192   1   10   344  6.1  usb_put_packet
+0    240   2    9   914  5.0  usb_flush_out
+0    260   2   12   652  5.9  usb_get_packet_buffer
+0     66   0    5   154  3.9  usb_get_packet
+0     90   1    6   258  4.6  usb_stall_ep
+0     88   1    6   266  4.6  usb_unstall_ep
+0    106   1    5   373  6.0  usb_endpoint_stalled
+0     22   0    1    94  2.7  usb_set_address
+0    482   3   12  1774 10.4  usb_set_configured
+0     96   1    5   199  3.2  usb_disable_endpoint
+0     22   0    1    99  3.0  usb_disable_endpoints
+0      4   0    0    61  4.0  usb_clear_trn
+0    114   1    2   662  6.8  usb_isr
+0      6   0    0    43  2.0  usb_isr_sof
+0     42   0    0   357  4.2  usb_isr_rst
+0     32   0    0   508  4.0  usb_init_ep0_setup
+0      8   0    0    74  2.8  usb_isr_uerr
+0     10   0    0    82  2.8  usb_isr_uidle
+0     16   0    0   102  3.3  usb_isr_activity
+0     14   0    0   151  3.9  usb_isr_stall
+0      6   0    1    30  1.7  usb_request_send_response
+0      4   0    0    22  1.2  usb_request_stall
+0    202   1    2  3177  9.3  usb_isr_tok_dne
+0      6   0    0    29  1.9  usb_enumerated
+0     12   0    0    52  2.1  usb_wait_for_enumeration
+0     40   0    3   255  4.0  usb_token_reset
+0     86   1    3   274  5.9  usb_endpoint_is_valid
+0     24   0    1   158  3.1  usb_isr_tok_in_dne
+0      6   0    1    53  1.9  usb_isr_tok_out_dne
+0     50   0    0   375  6.4  usb_isr_tok_setup_dne
+0    170   1    0  1454  8.3  usb_isr_tkn_setup_StandardDevice
+0    158   1    3  1002  7.8  usb_isr_tkn_setup_StandardInterface
+0     94   1    0   753  5.8  usb_isr_tkn_setup_StandardEndpoint
+0     12   0    0   105  3.8  usb_isr_tkn_setup_ClassInterface
+0    310   2    1  1492  8.8  usb_Get_Descriptor
+0     14   0    0    76  1.8  usb_finish_set_address
+0    170   1    4   719  5.6  usb_copy_desc_seg_to_ep
+0     34   0    0             @goto11677
+0   1538  11    3  7399 10.4  MAIN
+0     16   0    0             @const997
+0     32   0    2             @PSTRINGC_648
+0     14   0    0             @const999
+0     16   0    0             @const1000
+0     10   0    0             @const1001
+0    146   1    0             @goto11741
+0     20   0    0             @const1003
+0     20   0    0             @const1004
+0     10   0    0             @const1005
+0     30   0    3             @PSTRINGCN_648
+0    234   2    9             @PRINTF_LD_648
+0     10   0    0             @const1010
+0     10   0    0             @const1011
+0     10   0    0             @const1012
+0     10   0    0             @const1013
+0     10   0    0             @const1014
+0     10   0    0             @const1015
+0     10   0    0             @const1016
+0     10   0    0             @const1017
+0     10   0    0             @const1018
+0     14   0    0             @const1019
+0     20   0    0             @const1020
+0     84   1    0             @goto11876
+ Inline         0             @cinit1
+
+Program metrics:
+    Functions               51
+    Statements              771
+    Comments                2362
+    Volume (V)              49433
+    Difficulty (D)          234.1
+    Effort to implement (E) 11572227
+    Time to implement (T)   178 hours, 35 minutes
+    Est Delivered Bugs (B)  17
+    Cyclomatic Complexity   161
+    Maintainability (MI)    46
+
+ Segment     Used  Free
+-----------  ----  ----
+00000-00002     4  0  
+00004-00006     4  0  
+00008-00094   142  0  
+00096-07FFE  7006  25612  
+
+
+
